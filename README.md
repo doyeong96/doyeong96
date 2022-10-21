@@ -15,4 +15,6 @@
 
 [![Doyeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doyeng)](https://github.com/doyeong96)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hdy96)](https://solved.ac/hdy96)
+ <img src="http://mazandi.herokuapp.com/api?handle=dostiny&theme=warm"/>
 </div>
