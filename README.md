@@ -2,7 +2,11 @@
 <br/><br/><br/><br/>
 
 <div align=center>
+#### Hello 👋 
 
+- I am a junior` developer.
+- I studied programming at `SSAFY` 8th.
+ 
 ## 📚 LEARN 📚
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) 
