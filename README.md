@@ -3,6 +3,7 @@
 
 <div align=center>
 ## 👋 Hello 👋
+ 
 I am a junior` developer.
 I studied programming at `SSAFY` 8th.
  
