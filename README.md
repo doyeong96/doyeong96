@@ -24,10 +24,10 @@
 
 <br/><br/><br/><br/>
 
-[![doyeong96's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyeong96)](https://github.com/doyeong96/github-readme-stats) 
+ [![doyeong96's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyeong96)](https://github.com/doyeong96/github-readme-stats) 
  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hdy96)](https://solved.ac/hdy96)
+ [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hdy96)](https://solved.ac/hdy96)
  <img src="http://mazandi.herokuapp.com/api?handle=hdy96&theme=warm"/>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyeong96&layout=compact)](https://github.com/doyeong96/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyeong96&layout=compact)](https://github.com/doyeong96/github-readme-stats)
 </div>
