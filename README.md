@@ -1,11 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=140&section=header&text=Do_Yeong_Hwang&fontSize=80)
 <br/><br/><br/><br/>
 
+
 <div align=center>
-👋 Hello 👋
+
+ ## 👋 Hello 👋
  
-- I am a junior` developer.
-- I studied programming at `SSAFY` 8th.
+<p>I am a junior` developer.</p>
+<p>I studied programming at `SSAFY` 8th.</p>
  
 ## 📚 LEARN 📚
 
