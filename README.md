@@ -6,7 +6,7 @@
 
  ## 👋 Hello 👋
  
-<p>I am a junior` developer.</p>
+<p>I am a `junior` developer.</p>
 <p>I studied programming at `SSAFY` 8th.</p>
  
 ## 📚 LEARN 📚
