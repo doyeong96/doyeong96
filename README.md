@@ -27,8 +27,8 @@
  
  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
  
-<br/><br/><br/><br/>
-
+<br/><br/>
+ 
 ## 🍑 Doyeong 🍑
 
 <br/><br/><br/><br/>
